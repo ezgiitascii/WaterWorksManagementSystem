@@ -1,0 +1,2 @@
+# WaterWorksManagementSystem
+This software system will be a desktop software system to solve the problems of a regional community. The system will be designed to maximize problem analizing and efficiency by helping automate the Water Works Trouble Ticket Management process manually. Understanding the speed and efficiency of the Water Works Trouble Ticket Management System will make it easier to understand and meet its needs.
